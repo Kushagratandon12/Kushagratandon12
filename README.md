@@ -17,7 +17,7 @@
 
    👯 I’m looking to collaborate on Open Source Projects 
    
-   
+Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Currently Working On Machine Learning Projects as well as solving some Data Structures and Algorithms Problems On LeetCode/HackerRank and other sites available 
 
 <div><p>My profile overview: </p></div>
 
@@ -25,6 +25,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushagratandon12.Kushagratandon12)<br />
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kushagratandon12.Kushagratandon12)
+ 
+ 
+ 
+ 
+ ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
  
 
 <!--
