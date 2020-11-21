@@ -17,7 +17,7 @@
 
    👯 I’m looking to collaborate on Open Source Projects 
    
-Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Currently Working On Machine Learning Projects as well as solving some Data Structures and Algorithms Problems On LeetCode HackerRank Geeks For Geeks and other sites available 
+Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Currently Working On Machine Learning Projects,Postman API Tools,Learning Amazon EC2 & S3 Bucket also  Docker as well as solving some Data Structures and Algorithms Problems On LeetCode HackerRank Geeks For Geeks.
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
