@@ -7,18 +7,19 @@
 <a href="https://leetcode.com/kushagra12/">
   <img align="left" alt="Kushagra Tandon's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
 </br>
 </br>
 
-   🔭 I’m currently looking for Internship's and Open Source Projects 
+   🔭 I’m currently looking for Internship's and Open Source Projects Collaborations.
 
-   🌱 I’m currently learning Machine Learning 
+   🌱 I’m currently learning and working on Machine Learning Projects from Kaggle,AWS. 
 
-   👯 I’m looking to collaborate on Open Source Projects 
+   👯 I’m looking to collaborate on Open Source Projects.
    
-Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Currently Working On Machine Learning Projects,Postman API Tools,Learning Amazon EC2 & S3 Bucket also  Docker as well as solving some Data Structures and Algorithms Problems On LeetCode HackerRank Geeks For Geeks.
+Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Currently Working On Machine Learning Projects,Postman API, Working On Amazon(AWS) Services (EC2,Amplify,Lambda,S3)as well as solving some Data Structures and Algorithms Problems On LeetCode HackerRank Geeks For Geeks.
 
+<br>
+<br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
