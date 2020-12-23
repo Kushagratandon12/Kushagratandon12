@@ -43,8 +43,6 @@ Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Curren
  
  
  
- 
- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
  
