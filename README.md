@@ -7,6 +7,10 @@
 <a href="https://leetcode.com/kushagra12/">
   <img align="left" alt="Kushagra Tandon's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+
+<a href="https://www.kaggle.com/kushagratandon12">
+  <img align="left" alt="Kushagra Tandon's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 </br>
 </br>
 
