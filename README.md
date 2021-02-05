@@ -46,7 +46,7 @@ Hello I am Kushagra Tandon Final Year Electronics & Communication Student.Curren
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kushagratandon12.Kushagratandon12)
  
  
- 
+ ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
  
