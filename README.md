@@ -33,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kushagratandon12&show_icons=true&include_all_commits=true&theme=onedark" alt="Kushagra Tandon's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagratandon12&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Kushagratandon12"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagratandon12&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Kushagratandon12"/> -->
   
   ![Stat code](https://github-readme-streak-stats.herokuapp.com/?user=Kushagratandon12&theme=dark)
     
