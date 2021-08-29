@@ -7,12 +7,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kushagratandon12&theme=nord" alt="Kushagratandon12" /></a> 
 </p>
 
-<br>
-
 <h2>More About Me </h2>
-
 <br> 
-
 🌱 Graduated From VTU from Electronics & Communication Branch 
 
 👨‍💻 All of my projects are available at [https://github.com/Kushagratandon12](https://github.com/Kushagratandon12)
@@ -22,7 +18,6 @@
 📫 How to reach me 
       <h4> ->  **kushagra.tandon.124@gmail.com**
       <h4> ->  **https://www.linkedin.com/in/kushagratandon124/**
-
 <h2>Languages and Tools:</h2>
 <br>
 
@@ -37,12 +32,9 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu-02569B?style=for-the-badge&logo=ubuntu&color=white)
 ![javascript](https://img.shields.io/badge/javascript-02569B?style=for-the-badge&logo=javascript&color=white)
 ![googlecolab](https://img.shields.io/badge/googlecolab-02569B?style=for-the-badge&logo=googlecolab&color=white)
-
-
 <h2> GITHUB STATS </h2>
 <br>
 
 ![Stat code](https://github-readme-streak-stats.herokuapp.com/?user=Kushagratandon12&theme=dark)
-    
 
 <!-- [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=kushagratandon12&theme=github)](https://github.com/kushagratandon12/github-readme-activity-graph) -->
