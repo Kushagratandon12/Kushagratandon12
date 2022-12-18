@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kushagra Tandon</h1>
-<h3 align="center">A passionate Machine Learning , Backend Developer from India</h3>
+<h1 align="center">Hi 👋, Welcome to my GitHub Profile</h1>
+<h3 align="center">A DevOps Engineer From India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kushagratandon12&label=Profile%20views&color=0e75b6&style=flat" alt="Kushagratandon12" /> </p>
 
@@ -9,11 +9,8 @@
 
 <h2>More About Me </h2>
 <br> 
-🌱 Graduated From VTU from Electronics & Communication Branch 
 
-👨‍💻 All of my projects are available at [https://github.com/Kushagratandon12](https://github.com/Kushagratandon12)
-
-💬 Ask me about C C++ Python CNN NLP Tensorflow AWS Flask Rest-API Docker 
+💬 I have been working on Python [Django Flask], Docker Kubernetes , Machine Learning Projects , AWS
 
 📫 How to reach me 
       <h4> ->  **kushagra.tandon.124@gmail.com**
